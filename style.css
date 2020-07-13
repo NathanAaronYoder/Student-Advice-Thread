@@ -94,6 +94,9 @@ button {
 	border-radius: 20px;
 	background-color: #EDEFF1;
 }
+button:hover {
+	background-color: #cce6ff;
+}
 .footer {
   	grid-column-start: 1;
   	grid-column-end: 4;
